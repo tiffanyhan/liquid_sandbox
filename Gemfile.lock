@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    addressable (2.5.2)
+      public_suffix (>= 2.0.2, < 4.0)
+    launchy (2.4.3)
+      addressable (~> 2.3)
+    liquid (4.0.0)
+    public_suffix (3.0.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  launchy
+  liquid
+
+BUNDLED WITH
+   1.16.3
